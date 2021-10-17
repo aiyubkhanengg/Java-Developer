@@ -1,3 +1,5 @@
+// Function to find the sum of 2 numbers
+// This Program Coded By AIYUB KHAN GIT(aiyubkhanengg/Java-Developer)
 public class SumOftwoNumber
 {  
 public static void main(String args[])   
