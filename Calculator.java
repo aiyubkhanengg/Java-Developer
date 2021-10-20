@@ -1,6 +1,6 @@
 import java.util.Scanner;
 //This Program Created By AIYUB KHAN Git (aiyubkhanengg/Java-Developer)
-//Simple Java Calculator Program Using Scanner And Switch Case...
+//Simple Java Calculator Program Using Scanner And Switch Case....
 public class Calculator {
 
     public static void main(String[] args) {
