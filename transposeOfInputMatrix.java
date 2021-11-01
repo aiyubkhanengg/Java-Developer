@@ -1,4 +1,4 @@
-/*JAVA PROGRAM TO DISPLAY THE TRANSPOSE OF A INPUT GIVEN MATRIX*/
+//JAVA PROGRAM TO DISPLAY THE TRANSPOSE OF A INPUT GIVEN MATRIX
 //This program coded by AIYUB KHAN GIT (aiyubkhanengg/Java-Developer)
 //@uthor MOHD AIYUB KHAN
 import java.util.Scanner;
